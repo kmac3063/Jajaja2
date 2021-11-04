@@ -81,18 +81,19 @@ const App = (allowedList1 = allowedList) => {
         bridge.send("VKWebAppShowStoryBox",
             {
                 "background_type": "image",
+                "url": "https://sun9-42.userapi.com/impg/rdNjuAEyITb4lpQPkito6zQIKEXgRwM-gDOhHw/_Dyyrjm-FX8.jpg?size=259x245&quality=96&sign=81f34933a25235fdb3480afcd6aeb53b&type=album",
                 "stickers": [
                     {
                         "sticker_type": "renderable",
                         "sticker": {
                             "can_delete": 0,
                             "content_type": "image",
-                            "url": "https://sun9-28.userapi.com/impg/lyluQE_SUkYowD4tuhMiBx5cYsIYjzff39YR1A/LJKidxSlsNw.jpg?size=512x512&quality=96&sign=ed48ae9a7b751e35e2763f5bfe4232ce&type=album",
+                            "url": "https://sun9-83.userapi.com/impg/ACcK-FaiYFdWGyaghb8Pik_0SRRrJXah6XcfrQ/Gq1TTxAKED8.jpg?size=320x320&quality=96&sign=d1c5ff242b71cba42d7ddddb543b0f79&type=album",
                             "clickable_zones": [
                                 {
                                     "action_type": "app",
                                     "action": {
-                                        "app_id": "7993425",
+                                        "app_id": 7993425,
                                     },
                                 }
                             ]
