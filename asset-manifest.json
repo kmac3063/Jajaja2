@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/Jajaja2/static/js/main.e884a315.chunk.js",
+    "main.js.map": "/Jajaja2/static/js/main.e884a315.chunk.js.map",
+    "runtime-main.js": "/Jajaja2/static/js/runtime-main.68a83917.js",
+    "runtime-main.js.map": "/Jajaja2/static/js/runtime-main.68a83917.js.map",
+    "static/css/2.cf5ef10e.chunk.css": "/Jajaja2/static/css/2.cf5ef10e.chunk.css",
+    "static/js/2.298b449e.chunk.js": "/Jajaja2/static/js/2.298b449e.chunk.js",
+    "static/js/2.298b449e.chunk.js.map": "/Jajaja2/static/js/2.298b449e.chunk.js.map",
+    "index.html": "/Jajaja2/index.html",
+    "static/css/2.cf5ef10e.chunk.css.map": "/Jajaja2/static/css/2.cf5ef10e.chunk.css.map",
+    "static/js/2.298b449e.chunk.js.LICENSE.txt": "/Jajaja2/static/js/2.298b449e.chunk.js.LICENSE.txt",
+    "static/media/persik.ae9f0072.png": "/Jajaja2/static/media/persik.ae9f0072.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68a83917.js",
+    "static/css/2.cf5ef10e.chunk.css",
+    "static/js/2.298b449e.chunk.js",
+    "static/js/main.e884a315.chunk.js"
+  ]
+}
